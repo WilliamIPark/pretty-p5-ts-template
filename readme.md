@@ -1,6 +1,7 @@
 # Pretty P5 TypeScript Template
 
-**Motivation:**
+## Motivation
+
 I quite often want to create things using p5.js, and so far I've usually
 created them over on my [codepen](https://codepen.io/collection/MgLKdx), which is a great place to write small sketches with p5. I recommend setting up a project there if you're doing something small too. There isn't a great place to get started with larger projects though.
 
