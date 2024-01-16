@@ -20,6 +20,7 @@ If you want something that is going to be a little more than a sketch, and you w
 - Uses [Vite](https://vitejs.dev/) for its environment which:
   - Provides TypeScript support out of the box.
   - Allows you to split up your code into modules.
+  - Provides fast reload, so your browser will refresh with each change.
 - Provides optional, but useful defaults for things like:
   - Code organisation
   - Easy importing with aliasing
