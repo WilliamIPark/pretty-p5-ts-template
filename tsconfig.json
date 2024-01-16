@@ -20,7 +20,16 @@
     "noFallthroughCasesInSwitch": true,
 
     /* Include other type definitions */
-    "typeRoots": ["node_modules/@types", "src/types"]
+    "typeRoots": ["node_modules/@types", "src/types"],
+
+    /* Aliases */
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"],
+      "@utils/*": ["src/utils/*"],
+      "@lifecycle/*": ["src/lifecycle/*"],
+      "@types/*": ["src/types/*"]
+    }
   },
   "include": ["src"]
 }

@@ -1,5 +1,5 @@
 import p5 from "p5";
-import { lerpWithSin } from "../utils/lerp-with-sin";
+import { lerpWithSin } from "@utils/lerp-with-sin";
 
 function sampleContent(p: p5) {
   p.background(lerpWithSin({ p, minValue: 0, maxValue: 255 }));

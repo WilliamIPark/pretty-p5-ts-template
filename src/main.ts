@@ -1,5 +1,5 @@
-import { draw } from "./lifecycle/draw";
-import { setup } from "./lifecycle/setup";
+import { draw } from "@lifecycle/draw";
+import { setup } from "@lifecycle/setup";
 import "./style.css";
 import p5 from "p5";
 
