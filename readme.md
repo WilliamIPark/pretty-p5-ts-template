@@ -37,10 +37,11 @@ If you want something that is going to be a little more than a sketch, and you w
 
 Aliases are a way to have easy access to certain files in your directory, when doing an import. 4 Aliases are set up by default:
 
-`@` points to `src/`
-`@lifecycles` points to `src/lifecycles`
-`@utils` points to `src/utils`
-`@types` points to `src/types`
+- `@` points to `src/`
+- `@lifecycles` points to `src/lifecycles`
+- `@utils` points to `src/utils`
+- `@types` points to `src/types`
 
 Examples of usage can be found in the code, but as a reference an import from one of this directories would look like:
+
 `import { lerpWithSin } from "@utils/lerp-with-sin";`
