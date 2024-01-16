@@ -19,7 +19,6 @@ type drawArgs = {
 
 export function draw({ p }: drawArgs) {
   p.draw = () => {
-    p.createCanvas(500, 500);
     sampleContent(p);
   };
 }
