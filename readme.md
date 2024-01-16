@@ -1,4 +1,4 @@
-# Pretty P5 TypeScript
+# Pretty P5 TypeScript Template
 
 **Motivation:**
 I quite often want to create things using p5.js, and so far I've usually
@@ -23,6 +23,7 @@ If you want something that is going to be a little more than a sketch, and you w
   - Code organisation
   - Easy importing with aliasing
 - Uses P5.js in instance mode, allowing you to create many instances of P5.
+- I've tried to make the page with your canvas minimal but cosy.
 
 ## Get started
 
